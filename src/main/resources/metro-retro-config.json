@@ -1,0 +1,27 @@
+[
+  {
+    "header": "Good",
+    "jsonPath": "$[\"Good\"][*][\"content\"]",
+    "markdown": "-"
+  },
+  {
+    "header": "Bad",
+    "jsonPath": "$[\"Bad\"][*][\"content\"]",
+    "markdown": "-"
+  },
+  {
+    "header": "Start",
+    "jsonPath": "$[\"Start\"][*][\"content\"]",
+    "markdown": "-"
+  },
+  {
+    "header": "Stop",
+    "jsonPath": "$[\"Stop\"][*][\"content\"]",
+    "markdown": "-"
+  },
+  {
+    "header": "Action",
+    "jsonPath": "$[\"Actions\"][*][\"content\"]",
+    "markdown": "[]"
+  }
+]
