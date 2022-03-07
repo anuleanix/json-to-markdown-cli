@@ -9,4 +9,4 @@ Build the project via gradle:
 - ```unzip ./build/distributions/json-to-markdown-0.0.1.zip```
 - ``` cd ./build/distributions/json-to-markdown-0.0.1/bin````
 - run the converter (a config file for the metro-retro json can be found in ```build/distributions/json-to-markdown-0.0.1/config```)
-- ```./json-to-markdown -p <path-to-the-json-file> -c <path-to-the-config-file> -o <path-to-the-output-file>
+- ```./json-to-markdown -p <path-to-the-json-file> -c <path-to-the-config-file> -o <path-to-the-output-file>```
